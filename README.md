@@ -1,3 +1,6 @@
+### Demo:
+https://frello-mzw2.onrender.com/
+<img src="https://raw.githubusercontent.com/Shalhev/Frello/main/src/assets/board.png">
 # frontend
 
 This template should help get you started developing with Vue 3 in Vite.
